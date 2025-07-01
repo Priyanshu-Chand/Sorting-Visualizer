@@ -2,6 +2,10 @@
 
 An interactive and beautifully animated **Sorting Algorithm Visualizer** built using **HTML, CSS, and JavaScript**. This project helps users understand how different sorting algorithms work by visualizing them in real-time.
 
+## 🌐 Live Demo
+
+👉 [Click here to try it now!](https://priyanshu-chand.github.io/Sorting-Visualizer/)
+
 ## 📽️ Features
 
 - 🎯 Visualizes multiple sorting algorithms:
@@ -35,5 +39,5 @@ This visualizer is ideal for:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/sorting-visualizer.git
-   cd sorting-visualizer
+git clone https://github.com/priyanshu-chand/Sorting-Visualizer.git
+cd Sorting-Visualizer
